@@ -1,6 +1,8 @@
 # drawing
 draw things in your browser
 
+You can easily set it up and export it if you want to do that.
+
 ## Examples
 ```js
 // Create an editor
